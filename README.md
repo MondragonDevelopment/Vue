@@ -23,4 +23,4 @@ to npm, ignore any warnings or errors.
 computer’s firewall asks for permissions, click Allow.
 
 - Once the server has started, open your web browser and go to
-http://localhost:5173/ to view your Vue.js application.
+http://localhost:3000/ to view your Vue.js application.
