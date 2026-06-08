@@ -1,4 +1,4 @@
-* Instructions to create a Vue project
+# Instructions to create a Vue project
 
 For Vue 3 projects, Vite (pronounced “veet”) is the recommended build
 tool due to its faster development server and streamlined
