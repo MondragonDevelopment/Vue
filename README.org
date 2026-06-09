@@ -9,22 +9,22 @@ configuration.
 
 - Install pnpm using the standalone script provided in their webpage.
 
-- Install Node.js with the command: pn runtime set node lts -g
+- Install Node.js with the command: /pn runtime set node lts -g/
   
 - Open Terminal or a command prompt and use Vite to create a new
-  project: pn create vue@latest and if prompted to install any
+  project: /pn create vue@latest/ and if prompted to install any
   packages, enter y to proceed.
 
 - Follow the prompts to choose your project name, preferred package
   manager, and additional features (e.g., TypeScript, testing
   framework). You can accept these defaults.
 
-- Navigate to the project directory: cd my-vue-app
+- Navigate to the project directory: /cd my-vue-app/
 
-- Install dependencies using the pn install command. As you are new to
+- Install dependencies using the /pn install/ command. As you are new to
   pnpm, ignore any warnings or errors.
 
-- Start the server by running the pn dev command. If your computer’s
+- Start the server by running the /pn dev/ command. If your computer’s
   firewall asks for permissions, click Allow.
 
 - Once the server has started, open your web browser and go to
